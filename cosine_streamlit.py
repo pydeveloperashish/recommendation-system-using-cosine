@@ -97,7 +97,7 @@ class LargeScaleProductRecommender:
 
 # Streamlit app
 def main():
-    st.title("Product Recommendation System")
+    st.title("Cosine Product Recommendation System")
 
     # Load the recommendation system
     
